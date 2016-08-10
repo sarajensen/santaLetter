@@ -1,0 +1,27 @@
+body {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+h1 {
+  text-align: center;
+}
+
+br {
+  line-height: 3rem;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#letter {
+  display: none;
+}
+
+#signature {
+  font-family: cursive;
+  font-size: 2em;
+}
